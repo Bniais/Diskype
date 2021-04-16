@@ -1,3 +1,5 @@
+Messagerie peer-to-peer en Java Swing pour le monde de Programmation orientée objet
+
 ## Folder Structure
 - `src`: Les fichiers sources
 - `emoji` : Les images des emojis
