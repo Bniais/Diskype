@@ -1,7 +1,3 @@
-## Getting Started
-
-Code début du TP2
-
 ## Folder Structure
 - `src`: Les fichiers sources
 - `emoji` : Les images des emojis
