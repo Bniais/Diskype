@@ -1,4 +1,4 @@
-Messagerie peer-to-peer en Java Swing pour le monde de Programmation orientée objet
+Messagerie peer-to-peer en Java Swing pour le module de Programmation orientée objet
 
 Classes principales : App et Server
 
