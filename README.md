@@ -8,14 +8,23 @@ Classes principales : App et Server
 
 ## FONCTIONALITÉS
 -Rentrer les informations de connexion
+
 -Se connecter/déconnecter
+
 -Envoyer des messages
+
 -Voir les connectés
+
 -Couleurs
+
 -Smileys avec alias ( :), :-), ... )
+
 -Entrer pour envoyer/connecter au lieu de devoir appuyer sur le bouton
+
 -Envoyer des messages privées
+
 -Pouvoir voir qu'on a recu des messages (notifications)
+
 -Quelques messages d'erreurs liés aux envois de MP
 
 ## AMELIORATIONS POSSIBLES
